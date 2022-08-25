@@ -1,3 +1,6 @@
+THIS IS MY MODDED AUTO OWO FROM THE ORIGINAL 
+THANKS TO ALL OF THE AUTHORS FOR THIS AUTO
+
 # discord-selfbot-owo-bot
 
 **Keep In Mind This Repository Is For Educational Purposes Only. Selfbot are against Discord's ToS and against OwO's Rules! Use It At Your Own Risk!**
