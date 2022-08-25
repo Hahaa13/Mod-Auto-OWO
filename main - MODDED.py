@@ -471,7 +471,7 @@ def gems1():
                     if countC==3:
                         client.countgem =25 
                         bot.sendMessage(str(client.channel), "owo use 51 65 72")
-                        print(f"{at()}{client.color.okgreen} [SENT] {client.color.reset} owo use 51 65 72 [GEM UNCOMMON][25 turn]") 
+                        print(f"{at()}{client.color.okgreen} [SENT] {client.color.reset} owo use 51 65 72 [GEM COMMON][25 turn]") 
                     else:
                         client.checkedgem=1
                         print(f"{at()}{client.color.fail} [SENT] {client.color.reset} Ko có bộ 3 GEM giống nhau") 
